@@ -6,3 +6,4 @@ license = "MIT OR Apache-2.0"
 authors = ["Sycrosity <72102935+Sycrosity@users.noreply.github.com>"]
 
 [dependencies]
+bevy = "0.16.1"
