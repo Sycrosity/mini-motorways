@@ -1,0 +1,92 @@
+[
+    (
+        name: "car",
+        color: Some("green"),
+        bounds: (x: 0, y: 0, w: 1, h: 1),
+    ),
+    (
+        name: "car",
+        color: Some("red"),
+        bounds: (x: 0, y: 1, w: 1, h: 1),
+    ),
+    (
+        name: "house",
+        color: Some("green"),
+        bounds: (x: 1, y: 0, w: 1, h: 1),
+    ),
+    (
+        name: "house",
+        color: Some("red"),
+        bounds: (x: 1, y: 1, w: 1, h: 1),
+    ),
+    (
+        name: "car",
+        color: Some("orange"),
+        bounds: (x: 0, y: 2, w: 1, h: 1),
+    ),
+    (
+        name: "car",
+        color: Some("blue"),
+        bounds: (x: 0, y: 3, w: 1, h: 1),
+    ),
+    (
+        name: "house",
+        color: Some("blue"),
+        bounds: (x: 1, y: 3, w: 1, h: 1),
+    ),
+    (
+        name: "house",
+        color: Some("orange"),
+        bounds: (x: 1, y: 2, w: 1, h: 1),
+    ),
+    (
+        name: "supermarket horizontal",
+        color: Some("green"),
+        bounds: (x: 2, y: 0, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket horizontal",
+        color: Some("orange"),
+        bounds: (x: 2, y: 2, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket horizontal",
+        color: Some("blue"),
+        bounds: (x: 4, y: 2, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket horizontal",
+        color: Some("red"),
+        bounds: (x: 4, y: 0, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket vertical",
+        color: Some("green"),
+        bounds: (x: 0, y: 4, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket vertical",
+        color: Some("red"),
+        bounds: (x: 2, y: 4, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket vertical",
+        color: Some("orange"),
+        bounds: (x: 4, y: 4, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket vertical",
+        color: Some("blue"),
+        bounds: (x: 6, y: 4, w: 2, h: 2),
+    ),
+    (
+        name: "supermarket lot horizontal",
+        color: None,
+        bounds: (x: 5, y: 7, w: 3, h: 2),
+    ),
+    (
+        name: "supermarket lot vertical",
+        color: None,
+        bounds: (x: 8, y: 6, w: 2, h: 3),
+    ),
+]

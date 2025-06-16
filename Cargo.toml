@@ -1,9 +1,13 @@
 [package]
 name = "mini-motorways"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2024"
 license = "MIT OR Apache-2.0"
 authors = ["Sycrosity <72102935+Sycrosity@users.noreply.github.com>"]
 
 [dependencies]
 bevy = "0.16.1"
+bevy-inspector-egui = "0.31.0"
+bevy_common_assets = { version = "0.13.0", default-features = false, features = ["ron"] }
+bevy_northstar = "0.2.0"
+leafwing-input-manager = "0.17.0"
